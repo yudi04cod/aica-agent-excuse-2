@@ -1,6 +1,6 @@
 [![make.fun](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85.svg)](https://make.fun/c/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
-[![rank](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/yudi04cod/aica-agent-excuse/rank.svg)](https://make.fun/c/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
-[![reward](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/yudi04cod/aica-agent-excuse/reward.svg)](https://make.fun/c/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
+[![rank](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/yudi04cod/aica-agent-excuse-2/rank.svg)](https://make.fun/c/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
+[![reward](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/yudi04cod/aica-agent-excuse-2/reward.svg)](https://make.fun/c/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
 
 # The Excuse My Agent Gave Me
 
